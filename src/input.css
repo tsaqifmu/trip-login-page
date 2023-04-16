@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alert {
+  @apply text-red-400;
+}
+.borderAlert {
+  @apply border-red-400;
+}
